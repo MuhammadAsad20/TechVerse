@@ -44,7 +44,7 @@ const techStack = [
 
 const TechnologiesSection = () => {
   return (
-    <section className="py-16 bg-white text-center">
+    <section className="py-16 text-center">
       <Heading2 text="Our Technologies" className='mb-10'/>
       <div className="flex flex-wrap justify-center gap-20 px-4">
         {techStack.map((tech, index) => (
