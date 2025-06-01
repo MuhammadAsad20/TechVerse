@@ -20,7 +20,7 @@ const ContactFormSection = () => {
       />
       <button
         type="submit"
-        className="w-full bg-cyan-600 hover:bg-cyan-700 transition-colors p-3 rounded-xl font-semibold"
+        className="w-full text-white bg-cyan-600 hover:bg-cyan-700 transition-colors p-3 rounded-xl font-semibold"
       >
         Send Message
       </button>

@@ -26,7 +26,7 @@ const features = [
 const OurServiceSection = () => {
   return (
     <section className="text-gray-600 body-font">
-      <div className="container px-5 mx-auto">
+      <div className="container px-5 max-w-350 mx-auto">
         <div className="flex flex-wrap w-full mb-10 flex-col items-center text-center">
           <Heading2 text="Our Service" />
           
